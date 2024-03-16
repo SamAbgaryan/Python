@@ -31,7 +31,7 @@ The project files are divided between the following folders:
 ● 01 Project Management: Project Brief 
 ● 02 Data: Separated into two subfolders Original and Prepared Data. (Data files not uploaded to GitHub.)
 ● 03 Scripts: The Jupyter notebooks
-● 04 Analysis: Separated into two subfolders Reports and Visualizations.
+● 04 Analysis: Separated into four subfolders Crosstabs,Reports,Text Files and Visualizations.
 ● 05 Sent to Client: The final report presented in Excel
 
 Resources:
